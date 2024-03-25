@@ -1,0 +1,18 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #e76f51 !important;
+  /* Couleur au survol */
+}
+
+.nav-link.active {
+  color: #e76f51 !important;
+  /* Couleur du texte pour le lien actif */
+  font-weight: bold;
+  /* Style de police pour le lien actif */
+}

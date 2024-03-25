@@ -1,0 +1,22 @@
+.image {
+    display: inline;
+    margin-right: 15;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+@media (max-width: 500px) {
+    .image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .slick-slider {
+        padding-left: 90px;
+        padding-right: 10px;
+
+    }
+
+}

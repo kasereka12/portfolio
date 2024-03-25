@@ -1,0 +1,51 @@
+[
+    {
+        "Id": "1",
+        "Name": "Market watch",
+        "Description": "Un site de vente des montres de luxes developper avec symfony PHP.",
+        "ImgScr": "projectPortfolio.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "2",
+        "Name": "Headphones market",
+        "Description": "Un site de vente des ecouteurs basé sur .Net C#",
+        "ImgScr": "projectEcommerce.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "3",
+        "Name": "APP MOBILE Quiz App",
+        "Description": "Une application de test de cutlure generale developpée avec Java",
+        "ImgScr": "projectMobile.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "4",
+        "Name": "restaurant app",
+        "Description": "Site desktop destiné au snacks pour la vente de leur produits basé sur c#.",
+        "ImgScr": "projectBitcoin.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "5",
+        "Name": "APP MOBILE",
+        "Description": "Une application mobile est un programme, ou logiciel conçu pour fonctionner sur des appareil mobile également tels que smartphone, tv, watch ...etc",
+        "ImgScr": "projectMobile.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "6",
+        "Name": "PORTFOLIO",
+        "Description": "Un portfolio est un site Internet personnel qui présente les travaux d'un individu, ses compétences et expériences professionnelles.",
+        "ImgScr": "projectPortfolio.svg",
+        "Idmodal": ""
+    },
+    {
+        "Id": "7",
+        "Name": "ECOMMERCE",
+        "Description": "Un site e-commerce est conçu pour la vente de produits en ligne. Il offre aux utilisateurs la possibilité d'acheter ou vendre des produits en ligne",
+        "ImgScr": "projectEcommerce.svg",
+        "Idmodal": ""
+    }
+]
